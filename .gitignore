@@ -1,0 +1,10 @@
+.htaccess
+.rvmrc
+.DS_Store
+.bundle
+*.zip
+*.scssc
+*.tar
+*.tgz
+node_modules/
+*.cache
