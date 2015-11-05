@@ -4,20 +4,20 @@
 		"selected_items":
 		[
 			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"font",
+				"font-weight"
+			],
+			[
 				"marg",
 				"margin-bottom"
 			],
 			[
-				"margin",
-				"margin-left"
-			],
-			[
 				"pa",
 				"padding"
-			],
-			[
-				"font",
-				"font-size"
 			],
 			[
 				"in",
@@ -220,9 +220,17 @@
 	"command_palette":
 	{
 		"height": 372.0,
-		"last_filter": "gr",
+		"last_filter": "g",
 		"selected_items":
 		[
+			[
+				"g",
+				"Grunt: Kill Running Tasks"
+			],
+			[
+				"\\",
+				"Emmet: Split\\Join Tag"
+			],
 			[
 				"gr",
 				"Grunt: Kill Running Tasks"
@@ -281,10 +289,29 @@
 	},
 	"expanded_folders":
 	[
-		"/Applications/MAMP/htdocs/stae"
+		"/Applications/MAMP/htdocs/stae",
+		"/Applications/MAMP/htdocs/stae/js",
+		"/Applications/MAMP/htdocs/stae/js/vendor",
+		"/Applications/MAMP/htdocs/stae/scss",
+		"/Applications/MAMP/htdocs/stae/scss/base",
+		"/Applications/MAMP/htdocs/stae/scss/components",
+		"/Applications/MAMP/htdocs/stae/scss/layout",
+		"/Applications/MAMP/htdocs/stae/scss/utils"
 	],
 	"file_history":
 	[
+		"/Applications/MAMP/htdocs/stae/scss/base/_base.scss",
+		"/Applications/MAMP/htdocs/stae/scss/layout/_splash.scss",
+		"/Applications/MAMP/htdocs/stae/js/main.js",
+		"/Applications/MAMP/htdocs/stae/index.php",
+		"/Applications/MAMP/htdocs/stae/js/vendor/covervid.min.js",
+		"/Applications/MAMP/htdocs/stae/Gruntfile.js",
+		"/Applications/MAMP/htdocs/stae/scss/utils/_variables.scss",
+		"/Applications/MAMP/htdocs/stae/scss/utils/_responsive.scss",
+		"/Applications/MAMP/htdocs/stae/scss/base/_animations.scss",
+		"/Applications/MAMP/htdocs/stae/scss/style.scss",
+		"/Applications/MAMP/htdocs/stae/package.json",
+		"/Applications/MAMP/htdocs/stae/stae.co.html",
 		"/Applications/MAMP/htdocs/podcamp/wp-content/themes/PCTO_2016/_inc/comments.php",
 		"/Applications/MAMP/htdocs/podcamp/wp-content/themes/PCTO_2016/_inc/cpt_jobs.php",
 		"/Applications/MAMP/htdocs/podcamp/wp-content/themes/PCTO_2016/_inc/cpt_faq.php",
@@ -412,6 +439,7 @@
 		"case_sensitive": true,
 		"find_history":
 		[
+			"  \n",
 			"_(",
 			"{\n",
 			"    \n",

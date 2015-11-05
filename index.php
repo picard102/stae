@@ -13,9 +13,9 @@
   </div>
 
   <div class="covervid-wrapper">
-    <video autoplay  poster="https://s3-us-west-2.amazonaws.com/s.cdpn.io/4273/polina.jpg" id="bgvid" loop>
-      <source src="//demosthenes.info/assets/videos/polina.webm" type="video/webm">
-      <source src="//demosthenes.info/assets/videos/polina.mp4" type="video/mp4">
+    <video autoplay  poster="video/shutterstock_v755332.jpg" id="bgvid" loop>
+      <source src="video/shutterstock_v755332.webm" type="video/webm">
+      <source src="video/shutterstock_v755332.mp4" type="video/mp4">
     </video>
   </div>
 

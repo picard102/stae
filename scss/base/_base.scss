@@ -11,37 +11,6 @@ body {
     font-size: 10px;
   }
   
- 
-  
-  &:after {
-    position: fixed;
-    bottom: 0;
-    right: 0;
-    display: block;
-    color: $white;
-    background: $brand;
-
-    @include breakpoint($xs) {
-      content: 'xs';
-    }
-
-    @include breakpoint($sm) {
-      content: 'sm';
-    }
-
-    @include breakpoint($md) {
-      content: 'md';
-    }
-
-    @include breakpoint($lg) {
-      content: 'lg';
-    }
-
-    @include breakpoint($xl) {
-      content: 'xl';
-    }
-
-  }
 
 }
 
