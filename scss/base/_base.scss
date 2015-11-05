@@ -1,0 +1,62 @@
+
+body {
+  @include transition (all .2s ease-in-out);
+  background-color: $black;
+  color: $text;
+  font-family: $sans-serif;
+  -webkit-font-smoothing: antialiased;
+  font-weight: normal;
+
+  @include breakpoint($xs-down) {
+    font-size: 10px;
+  }
+  
+ 
+  
+  &:after {
+    position: fixed;
+    bottom: 0;
+    right: 0;
+    display: block;
+    color: $white;
+    background: $brand;
+
+    @include breakpoint($xs) {
+      content: 'xs';
+    }
+
+    @include breakpoint($sm) {
+      content: 'sm';
+    }
+
+    @include breakpoint($md) {
+      content: 'md';
+    }
+
+    @include breakpoint($lg) {
+      content: 'lg';
+    }
+
+    @include breakpoint($xl) {
+      content: 'xl';
+    }
+
+  }
+
+}
+
+%wrapper,
+.wrapper {
+  margin: 0 auto;
+  max-width: 1000px + 48px;
+  padding: 0 24px;
+} 
+
+img {
+  max-width: 100%;
+}
+
+a {
+  @include linkcolor($link, darken);
+  text-decoration: none;
+}
