@@ -1,7 +1,7 @@
 <html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 
 <meta http-equiv="Content-Style-Type" content="text/css">
-<link href='https://fonts.googleapis.com/css?family=Open+Sans:400,300,100,700,900|Montserrat' rel='stylesheet' type='text/css'>
+<link href='https://fonts.googleapis.com/css?family=Lato' rel='stylesheet' type='text/css'>
 <link rel='stylesheet' id='stae_reset-css'  href='style.css?ver=1.0' type='text/css' media='all' />
 
 <title>stae</title>

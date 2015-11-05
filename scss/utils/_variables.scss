@@ -44,9 +44,23 @@ $ms: (
 
 // Type
 
-$mont: 'Montserrat', sans-serif;
-$open: 'Open Sans', sans-serif;
 
+
+@font-face {
+    font-family: 'madras';
+    src: url('fonts/madras/madrasextralight.eot');
+    src: url('fonts/madras/madrasextralight.eot?#iefix') format('embedded-opentype'),
+         url('fonts/madras/madrasextralight.woff2') format('woff2'),
+         url('fonts/madras/madrasextralight.woff') format('woff'),
+         url('fonts/madras/madrasextralight.ttf') format('truetype'),
+         url('fonts/madras/madrasextralight.svg#madrasextra_light') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+$lato: 'Lato', sans-serif;
 $serif: 'Libre Baskerville', serif;
 $sans-serif: helvetica;
 

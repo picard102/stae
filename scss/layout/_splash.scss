@@ -12,7 +12,7 @@
     @include fontsize(5);
     line-height: 1em;
     color: $white;
-    font-family: $mont;
+    font-family: madras;
     font-weight: $light;
     margin-top: -.3em;
     text-transform: lowercase;
@@ -22,7 +22,7 @@
     @include fontsize(1);
     margin: 0;
     color: $white;
-    font-family: $mont;
+    font-family: $lato;
     font-weight: $light;
     text-transform: uppercase;
   }
